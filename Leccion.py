@@ -1,6 +1,7 @@
 #ls -a es para saber donde estoy
 #cd .. para salir, cd "nombre de carpeta" para entrar
 #git init es para arrancar el repositorio
+#git add . para agregar todos los archivos al repositorio
 #git commit -m "para guardar cambios"
 #git remote add origin "url del repositorio" para conectar el repositorio local con el remoto
 #git remote -v para ver los repositorios remotos
