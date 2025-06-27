@@ -28,3 +28,13 @@ dec = 1.2
 m = int(dec)
 print(type(m))
 print(m)
+
+#concatenacion
+nombre = "Andres"
+apellidos = "Romero"
+web = "andresromero.co"
+
+print(nombre + " " + apellidos + " - " + web)
+print(f"Hola {nombre} {apellidos} - {web}")
+print("Hola me llamo {} {} y mi web es: {}".format(nombre, apellidos, web))
+print(nombre,  apellidos,  web)
